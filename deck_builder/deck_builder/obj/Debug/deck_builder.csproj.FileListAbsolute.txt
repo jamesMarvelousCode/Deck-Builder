@@ -1,0 +1,14 @@
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\bin\Debug\deck_builder.exe.config
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\bin\Debug\deck_builder.exe
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\bin\Debug\deck_builder.pdb
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.builderForm.resources
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.Properties.Resources.resources
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.csproj.GenerateResource.Cache
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.exe
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.pdb
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\James\Documents\My Projects\deck_builder\deck_builder\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\My Projects\deck_builder\deck_builder\bin\Debug\deck_builder.exe.config
+E:\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.exe
+E:\My Projects\deck_builder\deck_builder\obj\Debug\deck_builder.pdb
